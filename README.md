@@ -5,7 +5,7 @@ for an expert-level discussion of the problem.
 
 For non-experts (like me) in the fields of biology/biophysics/bioinformatics, a short summary of the setup follows. 
 
-Peptides are sequences, consisting of amino acids - small molecules, coming in a variety of a couple of dozen kinds. Different amino acids are characterized by different physical and chemical properties and are usually coded by capital Latin letters, so that e.g. the peptide known as Distinctin would be represented as NLVSGLIEARKYLEQLHRKLKNCKV. Using the laws of biophysics, out of every such sequence one can extract twelve numeric characteristics of the given peptide (see [this link](https://pubs.acs.org/doi/abs/10.1021/ci4007003) for a discussion of how exactly this is done). These twelve numbers serve as features for our classification task. Their names, together with their respective data types, are:
+Peptides are sequences, consisting of amino acids - small molecules, coming in a variety of a couple of dozen kinds. Different amino acids are characterized by different physical and chemical properties and are usually coded by capital Latin letters, so that e.g. the peptide known as Distinctin would be represented as 'NLVSGLIEARKYLEQLHRKLKNCKV'. Using the laws of biophysics, out of every such sequence one can extract twelve numeric characteristics of the given peptide (see [this link](https://pubs.acs.org/doi/abs/10.1021/ci4007003) for a discussion of how exactly this is done). These twelve numbers serve as features for our classification task. Their names, together with their respective data types, are:
 
 1. Normalized Hydrophobic Moment (float64)
 1. Normalized Hydrophobicity (float64)                     
