@@ -20,6 +20,6 @@ Peptides are sequences, consisting of amino acids - small molecules, coming in a
 1. Amphiphilicity Index (float64)                            
 1. Propensity to Coil Conformation (float64)   
 
-There are 372 instances of peptides in the dataset, labeled by the target variable 'Class' that takes on values 0 or 1, depending on whether the given peptide is active or non-active against Staphylococcus aureus. For all 372 instances, the target variable represents an expensive experimental measurement, hence the relative smallness of the dataset. 
+There are 372 instances of peptides in the dataset, labeled by the target variable 'Class' that takes on values 0 or 1, depending on whether the given peptide is active or non-active against Staphylococcus aureus respectively. For all 372 instances, the target variable represents an expensive experimental measurement, hence the relative smallness of the dataset. 
 
 The data used in the present analysis (as well as much more) is publicly available in the [Database of Antimicrobial Activity and Structure of Peptides](https://dbaasp.org/), or DBAASP for short.
