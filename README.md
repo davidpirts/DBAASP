@@ -4,7 +4,7 @@ This repository implements various machine learning algorithms for classifying p
 
 For non-biologists/biophysicists (like me), mostly oriented towards the machine learning side of the problem, a short summary of the exercise follows. 
 
-Peptides are sequences, consisting of amino acids - small molecules, coming in a variety of a couple of dozen kinds. Different amino acids are characterized by different physical and chemical properties and are usually coded by capital Latin letters, so that e.g. the peptide known as Distinctin would be represented as 'NLVSGLIEARKYLEQLHRKLKNCKV'. Using the laws of biophysics, out of every such sequence one can extract twelve numeric characteristics of the given peptide (see [this link](https://pubs.acs.org/doi/abs/10.1021/ci4007003) for a discussion of how exactly this is done). These twelve numbers serve as features for our classification task. Their names, together with their respective data types, are:
+Peptides are sequences, consisting of amino acids - small molecules, coming in a variety of a couple of dozen kinds. Different amino acids are characterized by different physical and chemical properties and are usually coded by capital Latin letters, so that e.g. the peptide known as Distinctin would be represented as 'NLVSGLIEARKYLEQLHRKLKNCKV'. Using the laws of biophysics, out of every such sequence one can extract twelve numeric characteristics of the given peptide. These twelve numbers serve as features for our classification task. Their names, together with their respective data types, are:
 
 1. Normalized Hydrophobic Moment (float64)
 1. Normalized Hydrophobicity (float64)                     
