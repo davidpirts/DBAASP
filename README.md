@@ -1,6 +1,6 @@
 # Predictive modeling for antimicrobial peptides 
 
-This repository implements various machine learning algorithms for classifying peptides as active or non-active against gram-positive bacteria Staphylococcus aureus - a problem, relevant for antibiotic [drug discovery](https://en.wikipedia.org/wiki/Drug_discovery). See [this link](https://sciforum.net/paper/view/conference/6359) for an expert-level discussion. 
+This repository implements various machine learning algorithms for classifying peptides as active or non-active against gram-positive bacteria Staphylococcus aureus - a problem, generally relevant for antibiotic [drug discovery](https://en.wikipedia.org/wiki/Drug_discovery). See [this link](https://sciforum.net/paper/view/conference/6359) for an expert-level discussion. 
 
 For non-experts (like me) in the fields of biology/biophysics/bioinformatics, a short summary of the exercise follows. 
 
